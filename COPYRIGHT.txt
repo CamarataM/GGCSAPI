@@ -1,0 +1,24 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://www.example.com/software/project
+Upstream-Name: GGCSAPI
+Upstream-Contact: CamarataM <CamarataM@outlook.com>
+
+Files: 
+ ./*
+Comment: GodotSharp
+Copyright: c) Godot Engine contributors
+License: MIT
+
+Files: 
+ thirdparty/godot/*
+Comment: Godot Engine
+Copyright: 2014-present, Godot Engine contributors
+ 2007-2014, Juan Linietsky, Ariel Manzur
+License: Expat
+
+Files: 
+ ./*
+Comment: GGCSAPI
+Copyright: 2024 CamarataM
+License: MIT
+
